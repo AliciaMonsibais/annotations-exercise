@@ -20,7 +20,6 @@ public class Author extends Person {
         return books;
     }
 
-
     public List<String> publishedBooks() {
         return books;
     }
